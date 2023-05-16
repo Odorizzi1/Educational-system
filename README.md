@@ -4,7 +4,7 @@
 
 This project was started by me with the intention of being a multi-repository to learn Ruby on Rails in a real project. It will be a school management system that links schools, teachers, and students, along with their functionalities.
 
-## Requisitos
+## Requirements
 
 - Ruby 3.1.0p0 
 - Rails 7.0.4.3
